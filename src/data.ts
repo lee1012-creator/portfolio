@@ -1,5 +1,5 @@
 export const profile = {
-  firstName: "Shaira",
+  firstName: "Leigh",
   fullName: "Maria Shaira Leigh A. Rabasto",
   role: "UI Designer",
   mobile: "09474159613",
